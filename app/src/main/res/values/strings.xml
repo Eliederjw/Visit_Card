@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Visit Card</string>
+    <string name="my_name">Elieder Ventura</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_number">(19) 9 1234-5678</string>
+    <string name="social">EliederVentura</string>
+    <string name="email">elieder.ventura@android.com</string>
+    <string name="empty"></string>
+</resources>
