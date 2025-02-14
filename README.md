@@ -1,3 +1,3 @@
 ## Screenshot
 
-![Screenshot do projeto.](/screenshot/screenshot.png)
+![Screenshot do projeto.](/screenshot/screenshot.PNG)
